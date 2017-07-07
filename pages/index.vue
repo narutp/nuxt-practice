@@ -12,6 +12,8 @@
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
         <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
       </div>
+      <hr style="margin-top: 8px; margin-bottom: 8px;">
+      <div class="button--green"><nuxt-link to="/page2">PAGE2</nuxt-link></div>
     </div>
   </section>
 </template>
